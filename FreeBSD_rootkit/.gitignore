@@ -1,0 +1,7 @@
+*.tar
+*.gz
+*.tar.gz
+*.h.gch
+/os_code
+/sample_rootkit
+/write_ups
